@@ -68,11 +68,11 @@ body{
 .card_personnal-infos p{
     font-size: .875rem;
     color:var(--dark-grayish-blue);
-    margin-bottom: 28px;
+    margin-bottom: 25px;
 }
 .card_social-infos{
     display: flex;
-    margin-top: 28px;
+    margin-top: 24px;
     padding:0 56px 0 48px;
     justify-content: space-between;
 }
